@@ -1,16 +1,43 @@
-# flutter_application_1
+![HALAMAN LOGIN] (assets/) 
+Elemen yang Teridentifikasi:
 
-A new Flutter project.
 
-## Getting Started
+Header lokasi "Indonesia Utara"
 
-This project is a starting point for a Flutter application.
+Form input email dan password
 
-A few resources to get you started if this is your first Flutter project:
+Tombol "Lupa Password?"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tombol login utama
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Opsi login dengan Google dan Facebook
+
+Link pendaftaran akun baru
+
+
+
+📱 HALAMAN PERMINTAAN IZIN LOKASI
+Informasi Teknis
+Package Geolocator: geolocator: ^11.0.0
+
+Platform: Android Emulator
+
+Waktu: 19:38
+
+📱 HALAMAN REGISTRASI USER
+Informasi Halaman
+Fungsi: Pendaftaran akun baru
+
+Lokasi: Indonesia Utara (pre-filled dari GPS)
+
+Status: Form registrasi basic
+
+📱 HALAMAN DASHBOARD UTAMA
+Informasi Halaman
+Fungsi: Menampilkan profil user dan rekomendasi bioskop berdasarkan lokasi
+
+Waktu Akses: 19:48
+
+Lokasi: Indonesia Utara
+
+Status User: Member Aktif
