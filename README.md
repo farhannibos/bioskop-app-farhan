@@ -1,4 +1,4 @@
-![HALAMAN LOGIN] (assets/) 
+![HALAMAN LOGIN] (assets/images/login.png) 
 Elemen yang Teridentifikasi:
 
 
