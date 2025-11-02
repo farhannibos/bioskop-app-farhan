@@ -17,7 +17,7 @@ Link pendaftaran akun baru
 
 
 
-📱 ![HALAMAN PERMINTAAN IZIN LOKASI](assets/images/izin lokasi.png)
+📱 ![HALAMAN PERMINTAAN IZIN LOKASI](assets/images/izin_lokasi.png)
 Informasi Teknis
 Package Geolocator: geolocator: ^11.0.0
 
@@ -25,7 +25,7 @@ Platform: Android Emulator
 
 Waktu: 19:38
 
-📱 HALAMAN REGISTRASI USER
+📱 ![HALAMAN REGISTRASI USER](assets/images/register.png)
 Informasi Halaman
 Fungsi: Pendaftaran akun baru
 
