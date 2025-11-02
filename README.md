@@ -33,7 +33,7 @@ Lokasi: Indonesia Utara (pre-filled dari GPS)
 
 Status: Form registrasi basic
 
-📱 HALAMAN DASHBOARD UTAMA
+📱 ![HALAMAN BIOSKOP SEKITAR](assets/images/bioskop.png)
 Informasi Halaman
 Fungsi: Menampilkan profil user dan rekomendasi bioskop berdasarkan lokasi
 
