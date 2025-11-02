@@ -17,7 +17,7 @@ Link pendaftaran akun baru
 
 
 (assets/images/izin lokasi.png)
-📱 HALAMAN PERMINTAAN IZIN LOKASI
+📱 HALAMAN PERMINTAAN IZIN LOKASI(assets/images/izin lokasi.png)
 Informasi Teknis
 Package Geolocator: geolocator: ^11.0.0
 
