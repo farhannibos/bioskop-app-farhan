@@ -1,4 +1,5 @@
-![HALAMAN LOGIN] (assets/images/login.png) 
+![HALAMAN LOGIN](assets/images/login.png) 
+![Preview Aplikasi]()
 Elemen yang Teridentifikasi:
 
 
